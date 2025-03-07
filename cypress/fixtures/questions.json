@@ -1,0 +1,11 @@
+[
+    {
+      "question": "Which actor played Jack in the movie 'Titanic'?",
+      "answers": [
+        { "text": "Brad Pitt", "isCorrect": false },
+        { "text": "Leonardo DiCaprio", "isCorrect": true },
+        { "text": "Johnny Depp", "isCorrect": false },
+        { "text": "Tom Cruise", "isCorrect": false }
+      ]
+    }
+  ]
