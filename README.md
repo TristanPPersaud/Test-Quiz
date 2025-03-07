@@ -16,7 +16,7 @@ This project installs cypress into a previously working Test-Quiz. This quiz all
 No installation necessary.
 
 ## Usage
-The user can run this project by opening it in VS code and using npm run start:dev.
+The user can run this project by opening it in VS code and using npm run start:dev. Link to test videos: https://drive.google.com/file/d/1gEbQKhztvk6RFTvZ24rBsCFKzelSF9Xz/view 
 
 ## License
 MIT
